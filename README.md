@@ -4,5 +4,4 @@
 最後の入力でなければUpやDownのヒントを表示します。
 
 詳細はURLをご参照ください。
-
 https://qiita.com/Kuromame_91/items/c3953fc0d993faa7744a
